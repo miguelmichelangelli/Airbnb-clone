@@ -1,7 +1,7 @@
 <h1>Para correr localmente este proyecto debe seguir los siguientes pasos:</h1>
 <ol>
   <li>
-    <h3>Naverga a la carpeta donde deseas clonar este repositorio</h3>
+    <h3>Navega a la carpeta donde deseas clonar este repositorio</h3>
     <p>Para esto debe escribir en la línea de comandos de su consola:</p>
     <code>cd ruta/de/tu/carpeta</code>
   </li>
